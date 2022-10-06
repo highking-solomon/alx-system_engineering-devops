@@ -3,3 +3,5 @@ This README contains all the necessary information about the scripts contained i
 0-current_working_directory is a script that shows the full path of the current directory when its run.
 
 1-listit :- This script shows all the content of the current working directory.
+
+3-listfiles ;- This script shows a long listing of the files and directories in the current working directory
